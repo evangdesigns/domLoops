@@ -1,3 +1,12 @@
 body{
     background-color: blanchedalmond;
 }
+
+.dino-card{
+    background-color:black;
+    color:#fff;
+    width:200px;
+    padding: 5px 10px;
+    margin: 10px 5px;
+    text-align: center;
+}
