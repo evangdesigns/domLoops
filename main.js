@@ -1,1 +1,1 @@
-console.log(DOMloops);
+console.log('DOMloops');
